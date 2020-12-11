@@ -1,4 +1,3 @@
 # python_projects
 Real world applications of python
- these are real 
-projects, in real time
+ please dealte it
